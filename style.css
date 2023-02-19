@@ -108,13 +108,13 @@ section {
 }
 
 .card-1 {
-  background-image: url(/images/cy-1.png);
+  background-image: url(images/cy-1.png);
 }
 .card-2 {
-  background-image: url(/images/cy-4.png);
+  background-image: url(images/cy-4.png);
 }
 .card-3 {
-  background-image: url(/images/cy-5.png);
+  background-image: url(images/cy-5.png);
 }
 .tittle-content {
   padding-left: 10px;
@@ -161,13 +161,13 @@ section {
   background-repeat: no-repeat;
 }
 .cardd-1 {
-  background-image: url(/images/18868236251645016683-128.png);
+  background-image: url(images/18868236251645016683-128.png);
 }
 .cardd-2 {
-  background-image: url(/images/84412477216297319213946-128.png);
+  background-image: url(images/84412477216297319213946-128.png);
 }
 .cardd-3 {
-  background-image: url(/images/16018873641656061648-128.png);
+  background-image: url(images/16018873641656061648-128.png);
 }
 @media only screen and (max-width: 600px) {
   .card-container {
