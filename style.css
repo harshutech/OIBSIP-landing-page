@@ -2,63 +2,6 @@ body {
   box-sizing: border-box;
 }
 
-/* navigation bar */
-
-.nav-container {
-  height: 65px;
-  width: 100%;
-  background-color: white;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-.logo {
-  display: flex;
-  justify-content: flex-start;
-}
-.linkpages {
-  display: flex;
-  flex: 1;
-  justify-content: right;
-  gap: 30px;
-  padding-right: 20px;
-}
-.nav-links {
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  transition: 1s;
-}
-
-.nav-links:hover {
-  color: #f81c27;
-}
-.icon {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
-nav img {
-  padding: 8px;
-  border-radius: 22px;
-  box-shadow: 0px, 1px, 8px 6px, red;
-  cursor: pointer;
-}
-@media only screen and (max-width: 600px) {
-  .linkpages {
-    flex: 1;
-    justify-content: right;
-    gap: 10px;
-    padding-right: 10px;
-  }
-}
-
-.main h1 {
-  text-align: center;
-  font-size: 30px;
-}
-
 /* featured cards */
 section {
   padding-top: 50px;
